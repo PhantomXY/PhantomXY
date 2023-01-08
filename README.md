@@ -1,5 +1,5 @@
 ### About me 
-Software Develper that has many side projects here.
+Software Dev that has many side projects here.
 
 Check out [PhantomX](https://phantomx.tk) :)
 
