@@ -3,7 +3,7 @@ Software Develper that has many side projects here.
 
 Check out [PhantomX](https://phantomx.tk) :)
 
-<a href="https://phantomx.tk" target="_blank"></a>Project Phantom</span>
+(<a href="https://phantomx.tk" target="_blank"></a>)[Project Phantom]
 <!--
 **PhantomXY/PhantomXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
