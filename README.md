@@ -1,7 +1,7 @@
 ### About me 
 Software Develper that has many side projects here.
 
-Check out [PhantomX](https://phantomx.tk/) :)
+Check out [PhantomX](<a href="https://phantomx.tk" target="_blank"></a>) :)
 <!--
 **PhantomXY/PhantomXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
